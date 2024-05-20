@@ -1,0 +1,4 @@
+.cache/
+obj/
+output/
+compile_commands.json

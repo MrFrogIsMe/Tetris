@@ -1,0 +1,6 @@
+const int CELL_SIZE = 40;
+const int MINO_SIZE = CELL_SIZE * 0.95;
+const int MATRIX_WIDTH = 10;
+const int MATRIX_HEIGHT = 20;
+const int WINDOW_WIDTH = CELL_SIZE * MATRIX_WIDTH;
+const int WINDOW_HEIGHT = CELL_SIZE * MATRIX_HEIGHT;
